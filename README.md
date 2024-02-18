@@ -1,2 +1,2 @@
-# solution-implementation-QCQI-Nielsen
-This is my own notes on the text book QCQI by Nielsen and Chuang. It contains a summary of keywords, solution to some excercise, and implementation (simulated) of some algorithms.
+# Notes-QCQI-Nielsen-Chuang
+These are my own notes on the text book QCQI by Nielsen and Chuang. This repo contains a summary of keywords, solutions to some excercise, and (simulated) implementation of some algorithms. I am not ambitious enough to solve all the problems in this text book. Instead, I will only give solutions to some problems / excercise, and in some cases I will only give an outline rather than a full solution. This repo is still a work in progress.
