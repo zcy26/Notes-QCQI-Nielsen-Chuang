@@ -9,4 +9,4 @@ I am not ambitious enough to solve all the problems in this text book. Instead, 
 
 The following contents are included as supplementary:
 1. HHL: a quantum algorithms solving linear systems.
-
+2. VQA: variational quantum algorithms.
