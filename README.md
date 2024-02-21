@@ -7,3 +7,6 @@ These are my own notes on the text book QCQI by Nielsen and Chuang. This repo co
 
 I am not ambitious enough to solve all the problems in this text book. Instead, I will only give solutions to some selected problems / excercise, and in some cases I will only give an outline rather than a full solution. 
 
+The following contents are included as supplementary:
+1. HHL: a quantum algorithms solving linear systems.
+
